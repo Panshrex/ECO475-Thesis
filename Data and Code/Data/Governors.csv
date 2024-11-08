@@ -1,0 +1,301 @@
+state_code,state_name,governor_name,governor_party,year
+AL,Alabama,Kay Ivey,Republican,2022
+AL,Alabama,Kay Ivey,Republican,2021
+AL,Alabama,Kay Ivey,Republican,2020
+AL,Alabama,Kay Ivey,Republican,2019
+AL,Alabama,Kay Ivey,Republican,2018
+AL,Alabama,Kay Ivey,Republican,2017
+AK,Alaska,Mike Dunleavy,Republican,2022
+AK,Alaska,Mike Dunleavy,Republican,2021
+AK,Alaska,Mike Dunleavy,Republican,2020
+AK,Alaska,Mike Dunleavy,Republican,2019
+AK,Alaska,Bill Walker,Independent,2018
+AK,Alaska,Bill Walker,Independent,2017
+AZ,Arizona,Doug Ducey,Republican,2022
+AZ,Arizona,Doug Ducey,Republican,2021
+AZ,Arizona,Doug Ducey,Republican,2020
+AZ,Arizona,Doug Ducey,Republican,2019
+AZ,Arizona,Doug Ducey,Republican,2018
+AZ,Arizona,Doug Ducey,Republican,2017
+AR,Arkansas,Asa Hutchinson,Republican,2022
+AR,Arkansas,Asa Hutchinson,Republican,2021
+AR,Arkansas,Asa Hutchinson,Republican,2020
+AR,Arkansas,Asa Hutchinson,Republican,2019
+AR,Arkansas,Asa Hutchinson,Republican,2018
+AR,Arkansas,Asa Hutchinson,Republican,2017
+CA,California,Gavin Newsom,Democratic,2022
+CA,California,Gavin Newsom,Democratic,2021
+CA,California,Gavin Newsom,Democratic,2020
+CA,California,Gavin Newsom,Democratic,2019
+CA,California,Jerry Brown,Democratic,2018
+CA,California,Jerry Brown,Democratic,2017
+CO,Colorado,Jared Polis,Democratic,2022
+CO,Colorado,Jared Polis,Democratic,2021
+CO,Colorado,Jared Polis,Democratic,2020
+CO,Colorado,Jared Polis,Democratic,2019
+CO,Colorado,John Hickenlooper,Democratic,2018
+CO,Colorado,John Hickenlooper,Democratic,2017
+CT,Connecticut,Ned Lamont,Democratic,2022
+CT,Connecticut,Ned Lamont,Democratic,2021
+CT,Connecticut,Ned Lamont,Democratic,2020
+CT,Connecticut,Ned Lamont,Democratic,2019
+CT,Connecticut,Dannel Malloy,Democratic,2018
+CT,Connecticut,Dannel Malloy,Democratic,2017
+DE,Delaware,John Carney,Democratic,2022
+DE,Delaware,John Carney,Democratic,2021
+DE,Delaware,John Carney,Democratic,2020
+DE,Delaware,John Carney,Democratic,2019
+DE,Delaware,John Carney,Democratic,2018
+DE,Delaware,John Carney,Democratic,2017
+FL,Florida,Ron DeSantis,Republican,2022
+FL,Florida,Ron DeSantis,Republican,2021
+FL,Florida,Ron DeSantis,Republican,2020
+FL,Florida,Ron DeSantis,Republican,2019
+FL,Florida,Rick Scott,Republican,2018
+FL,Florida,Rick Scott,Republican,2017
+GA,Georgia,Brian Kemp,Republican,2022
+GA,Georgia,Brian Kemp,Republican,2021
+GA,Georgia,Brian Kemp,Republican,2020
+GA,Georgia,Brian Kemp,Republican,2019
+GA,Georgia,Nathan Deal,Republican,2018
+GA,Georgia,Nathan Deal,Republican,2017
+HI,Hawaii,David Ige,Democratic,2022
+HI,Hawaii,David Ige,Democratic,2021
+HI,Hawaii,David Ige,Democratic,2020
+HI,Hawaii,David Ige,Democratic,2019
+HI,Hawaii,David Ige,Democratic,2018
+HI,Hawaii,David Ige,Democratic,2017
+ID,Idaho,Brad Little,Republican,2022
+ID,Idaho,Brad Little,Republican,2021
+ID,Idaho,Brad Little,Republican,2020
+ID,Idaho,Brad Little,Republican,2019
+ID,Idaho,"C.L. ""Butch"" Otter",Republican,2018
+ID,Idaho,"C.L. ""Butch"" Otter",Republican,2017
+IL,Illinois,J.B. Pritzker,Democratic,2022
+IL,Illinois,J.B. Pritzker,Democratic,2021
+IL,Illinois,J.B. Pritzker,Democratic,2020
+IL,Illinois,J.B. Pritzker,Democratic,2019
+IL,Illinois,Bruce Rauner,Republican,2018
+IL,Illinois,Bruce Rauner,Republican,2017
+IN,Indiana,Eric Holcomb,Republican,2022
+IN,Indiana,Eric Holcomb,Republican,2021
+IN,Indiana,Eric Holcomb,Republican,2020
+IN,Indiana,Eric Holcomb,Republican,2019
+IN,Indiana,Eric Holcomb,Republican,2018
+IN,Indiana,Eric Holcomb,Republican,2017
+IA,Iowa,Kim Reynolds,Republican,2022
+IA,Iowa,Kim Reynolds,Republican,2021
+IA,Iowa,Kim Reynolds,Republican,2020
+IA,Iowa,Kim Reynolds,Republican,2019
+IA,Iowa,Kim Reynolds,Republican,2018
+IA,Iowa,Kim Reynolds,Republican,2017
+KS,Kansas,Laura Kelly,Democratic,2022
+KS,Kansas,Laura Kelly,Democratic,2021
+KS,Kansas,Laura Kelly,Democratic,2020
+KS,Kansas,Laura Kelly,Democratic,2019
+KS,Kansas,Jeff Colyer,Republican,2018
+KS,Kansas,Sam Brownback,Republican,2017
+KY,Kentucky,Andy Beshear,Democratic,2022
+KY,Kentucky,Andy Beshear,Democratic,2021
+KY,Kentucky,Andy Beshear,Democratic,2020
+KY,Kentucky,Matt Bevin,Republican,2019
+KY,Kentucky,Matt Bevin,Republican,2018
+KY,Kentucky,Matt Bevin,Republican,2017
+LA,Louisiana,John Bel Edwards,Democratic,2022
+LA,Louisiana,John Bel Edwards,Democratic,2021
+LA,Louisiana,John Bel Edwards,Democratic,2020
+LA,Louisiana,John Bel Edwards,Democratic,2019
+LA,Louisiana,John Bel Edwards,Democratic,2018
+LA,Louisiana,John Bel Edwards,Democratic,2017
+ME,Maine,Janet Mills,Democratic,2022
+ME,Maine,Janet Mills,Democratic,2021
+ME,Maine,Janet Mills,Democratic,2020
+ME,Maine,Janet Mills,Democratic,2019
+ME,Maine,Paul LePage,Republican,2018
+ME,Maine,Paul LePage,Republican,2017
+MD,Maryland,Larry Hogan,Republican,2022
+MD,Maryland,Larry Hogan,Republican,2021
+MD,Maryland,Larry Hogan,Republican,2020
+MD,Maryland,Larry Hogan,Republican,2019
+MD,Maryland,Larry Hogan,Republican,2018
+MD,Maryland,Larry Hogan,Republican,2017
+MA,Massachusetts,Charlie Baker,Republican,2022
+MA,Massachusetts,Charlie Baker,Republican,2021
+MA,Massachusetts,Charlie Baker,Republican,2020
+MA,Massachusetts,Charlie Baker,Republican,2019
+MA,Massachusetts,Charlie Baker,Republican,2018
+MA,Massachusetts,Charlie Baker,Republican,2017
+MI,Michigan,Gretchen Whitmer,Democratic,2022
+MI,Michigan,Gretchen Whitmer,Democratic,2021
+MI,Michigan,Gretchen Whitmer,Democratic,2020
+MI,Michigan,Gretchen Whitmer,Democratic,2019
+MI,Michigan,Rick Snyder,Republican,2018
+MI,Michigan,Rick Snyder,Republican,2017
+MN,Minnesota,Tim Walz,Democratic,2022
+MN,Minnesota,Tim Walz,Democratic,2021
+MN,Minnesota,Tim Walz,Democratic,2020
+MN,Minnesota,Tim Walz,Democratic,2019
+MN,Minnesota,Mark Dayton,Democratic,2018
+MN,Minnesota,Mark Dayton,Democratic,2017
+MS,Mississippi,Tate Reeves,Republican,2022
+MS,Mississippi,Tate Reeves,Republican,2021
+MS,Mississippi,Tate Reeves,Republican,2020
+MS,Mississippi,Phil Bryant,Republican,2019
+MS,Mississippi,Phil Bryant,Republican,2018
+MS,Mississippi,Phil Bryant,Republican,2017
+MO,Missouri,Mike Parson,Republican,2022
+MO,Missouri,Mike Parson,Republican,2021
+MO,Missouri,Mike Parson,Republican,2020
+MO,Missouri,Mike Parson,Republican,2019
+MO,Missouri,Eric Greitens,Republican,2018
+MO,Missouri,Eric Greitens,Republican,2017
+MT,Montana,Greg Gianforte,Republican,2022
+MT,Montana,Greg Gianforte,Republican,2021
+MT,Montana,Steve Bullock,Democratic,2020
+MT,Montana,Steve Bullock,Democratic,2019
+MT,Montana,Steve Bullock,Democratic,2018
+MT,Montana,Steve Bullock,Democratic,2017
+NE,Nebraska,Pete Ricketts,Republican,2022
+NE,Nebraska,Pete Ricketts,Republican,2021
+NE,Nebraska,Pete Ricketts,Republican,2020
+NE,Nebraska,Pete Ricketts,Republican,2019
+NE,Nebraska,Pete Ricketts,Republican,2018
+NE,Nebraska,Pete Ricketts,Republican,2017
+NV,Nevada,Steve Sisolak,Democratic,2022
+NV,Nevada,Steve Sisolak,Democratic,2021
+NV,Nevada,Steve Sisolak,Democratic,2020
+NV,Nevada,Steve Sisolak,Democratic,2019
+NV,Nevada,Brian Sandoval,Republican,2018
+NV,Nevada,Brian Sandoval,Republican,2017
+NH,New Hampshire,Chris Sununu,Republican,2022
+NH,New Hampshire,Chris Sununu,Republican,2021
+NH,New Hampshire,Chris Sununu,Republican,2020
+NH,New Hampshire,Chris Sununu,Republican,2019
+NH,New Hampshire,Chris Sununu,Republican,2018
+NH,New Hampshire,Chris Sununu,Republican,2017
+NJ,New Jersey,Phil Murphy,Democratic,2022
+NJ,New Jersey,Phil Murphy,Democratic,2021
+NJ,New Jersey,Phil Murphy,Democratic,2020
+NJ,New Jersey,Phil Murphy,Democratic,2019
+NJ,New Jersey,Phil Murphy,Democratic,2018
+NJ,New Jersey,Chris Christie,Republican,2017
+NM,New Mexico,Michelle Lujan Grisham,Democratic,2022
+NM,New Mexico,Michelle Lujan Grisham,Democratic,2021
+NM,New Mexico,Michelle Lujan Grisham,Democratic,2020
+NM,New Mexico,Michelle Lujan Grisham,Democratic,2019
+NM,New Mexico,Susana Martinez,Republican,2018
+NM,New Mexico,Susana Martinez,Republican,2017
+NY,New York,Kathy Hochul,Democratic,2022
+NY,New York,Andrew Cuomo,Democratic,2021
+NY,New York,Andrew Cuomo,Democratic,2020
+NY,New York,Andrew Cuomo,Democratic,2019
+NY,New York,Andrew Cuomo,Democratic,2018
+NY,New York,Andrew Cuomo,Democratic,2017
+NC,North Carolina,Roy Cooper,Democratic,2022
+NC,North Carolina,Roy Cooper,Democratic,2021
+NC,North Carolina,Roy Cooper,Democratic,2020
+NC,North Carolina,Roy Cooper,Democratic,2019
+NC,North Carolina,Roy Cooper,Democratic,2018
+NC,North Carolina,Roy Cooper,Democratic,2017
+ND,North Dakota,Doug Burgum,Republican,2022
+ND,North Dakota,Doug Burgum,Republican,2021
+ND,North Dakota,Doug Burgum,Republican,2020
+ND,North Dakota,Doug Burgum,Republican,2019
+ND,North Dakota,Doug Burgum,Republican,2018
+ND,North Dakota,Doug Burgum,Republican,2017
+OH,Ohio,Mike DeWine,Republican,2022
+OH,Ohio,Mike DeWine,Republican,2021
+OH,Ohio,Mike DeWine,Republican,2020
+OH,Ohio,Mike DeWine,Republican,2019
+OH,Ohio,John Kasich,Republican,2018
+OH,Ohio,John Kasich,Republican,2017
+OK,Oklahoma,Kevin Stitt,Republican,2022
+OK,Oklahoma,Kevin Stitt,Republican,2021
+OK,Oklahoma,Kevin Stitt,Republican,2020
+OK,Oklahoma,Kevin Stitt,Republican,2019
+OK,Oklahoma,Mary Fallin,Republican,2018
+OK,Oklahoma,Mary Fallin,Republican,2017
+OR,Oregon,Kate Brown,Democratic,2022
+OR,Oregon,Kate Brown,Democratic,2021
+OR,Oregon,Kate Brown,Democratic,2020
+OR,Oregon,Kate Brown,Democratic,2019
+OR,Oregon,Kate Brown,Democratic,2018
+OR,Oregon,Kate Brown,Democratic,2017
+PA,Pennsylvania,Tom Wolf,Democratic,2022
+PA,Pennsylvania,Tom Wolf,Democratic,2021
+PA,Pennsylvania,Tom Wolf,Democratic,2020
+PA,Pennsylvania,Tom Wolf,Democratic,2019
+PA,Pennsylvania,Tom Wolf,Democratic,2018
+PA,Pennsylvania,Tom Wolf,Democratic,2017
+RI,Rhode Island,Dan McKee,Democratic,2022
+RI,Rhode Island,Dan McKee,Democratic,2021
+RI,Rhode Island,Gina Raimondo,Democratic,2020
+RI,Rhode Island,Gina Raimondo,Democratic,2019
+RI,Rhode Island,Gina Raimondo,Democratic,2018
+RI,Rhode Island,Gina Raimondo,Democratic,2017
+SC,South Carolina,Henry McMaster,Republican,2022
+SC,South Carolina,Henry McMaster,Republican,2021
+SC,South Carolina,Henry McMaster,Republican,2020
+SC,South Carolina,Henry McMaster,Republican,2019
+SC,South Carolina,Henry McMaster,Republican,2018
+SC,South Carolina,Henry McMaster,Republican,2017
+SD,South Dakota,Kristi Noem,Republican,2022
+SD,South Dakota,Kristi Noem,Republican,2021
+SD,South Dakota,Kristi Noem,Republican,2020
+SD,South Dakota,Kristi Noem,Republican,2019
+SD,South Dakota,Dennis Daugaard,Republican,2018
+SD,South Dakota,Dennis Daugaard,Republican,2017
+TN,Tennessee,Bill Lee,Republican,2022
+TN,Tennessee,Bill Lee,Republican,2021
+TN,Tennessee,Bill Lee,Republican,2020
+TN,Tennessee,Bill Lee,Republican,2019
+TN,Tennessee,Bill Haslam,Republican,2018
+TN,Tennessee,Bill Haslam,Republican,2017
+TX,Texas,Greg Abbott,Republican,2022
+TX,Texas,Greg Abbott,Republican,2021
+TX,Texas,Greg Abbott,Republican,2020
+TX,Texas,Greg Abbott,Republican,2019
+TX,Texas,Greg Abbott,Republican,2018
+TX,Texas,Greg Abbott,Republican,2017
+UT,Utah,Spencer Cox,Republican,2022
+UT,Utah,Spencer Cox,Republican,2021
+UT,Utah,Gary Herbert,Republican,2020
+UT,Utah,Gary Herbert,Republican,2019
+UT,Utah,Gary Herbert,Republican,2018
+UT,Utah,Gary Herbert,Republican,2017
+VT,Vermont,Phil Scott,Republican,2022
+VT,Vermont,Phil Scott,Republican,2021
+VT,Vermont,Phil Scott,Republican,2020
+VT,Vermont,Phil Scott,Republican,2019
+VT,Vermont,Phil Scott,Republican,2018
+VT,Vermont,Phil Scott,Republican,2017
+VA,Virginia,Glenn Youngkin,Republican,2022
+VA,Virginia,Ralph Northam,Democratic,2021
+VA,Virginia,Ralph Northam,Democratic,2020
+VA,Virginia,Ralph Northam,Democratic,2019
+VA,Virginia,Ralph Northam,Democratic,2018
+VA,Virginia,Terry McAuliffe,Democratic,2017
+WA,Washington,Jay Inslee,Democratic,2022
+WA,Washington,Jay Inslee,Democratic,2021
+WA,Washington,Jay Inslee,Democratic,2020
+WA,Washington,Jay Inslee,Democratic,2019
+WA,Washington,Jay Inslee,Democratic,2018
+WA,Washington,Jay Inslee,Democratic,2017
+WV,West Virginia,Jim Justice,Republican,2022
+WV,West Virginia,Jim Justice,Republican,2021
+WV,West Virginia,Jim Justice,Republican,2020
+WV,West Virginia,Jim Justice,Republican,2019
+WV,West Virginia,Jim Justice,Republican,2018
+WV,West Virginia,Jim Justice,Republican,2017
+WI,Wisconsin,Tony Evers,Democratic,2022
+WI,Wisconsin,Tony Evers,Democratic,2021
+WI,Wisconsin,Tony Evers,Democratic,2020
+WI,Wisconsin,Tony Evers,Democratic,2019
+WI,Wisconsin,Scott Walker,Republican,2018
+WI,Wisconsin,Scott Walker,Republican,2017
+WY,Wyoming,Mark Gordon,Republican,2022
+WY,Wyoming,Mark Gordon,Republican,2021
+WY,Wyoming,Mark Gordon,Republican,2020
+WY,Wyoming,Mark Gordon,Republican,2019
+WY,Wyoming,Matt Mead,Republican,2018
+WY,Wyoming,Matt Mead,Republican,2017
