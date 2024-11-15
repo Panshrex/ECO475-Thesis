@@ -1,7 +1,7 @@
 # ECO475 Thesis
  Code, Data, and Writeups for my capstone econometrics research project
 
-Description Copied From Paper. Full Paper [Here](Writeups/ECO475_Paper-1.pdf). Paper was written in Winter 2022/Spring 2023
+Description copied and abridged from full paper. Full paper [here](Writeups/ECO475_Paper-1.pdf). The paper was written in Winter 2022/Spring 2023
 
  ## Introduction
 Transportation is one of the largest sources of greenhouse gas emissions, accounting for 27% of
@@ -24,7 +24,7 @@ explored in the literature.
 The primary dataset utilized for this paper is a monthly county-level panel of vehicle populations
 published by the State of Washington Department of Licensing. The dataset is grouped by vehicle
 class (passenger versus truck) and drivetrain (battery-electric, hybrid-electric, and non-electric),
-and covers the time period from January 2017 to December 2022.
+and covers the time from January 2017 to December 2022.
 Other variables include county-level demographic data (population, education, income, and
 poverty) published by the Economic Research Service of the US Department of Agriculture,
 monthly fuel (gasoline) price data published by the US Energy Information Administration, and
